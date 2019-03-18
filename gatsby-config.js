@@ -1,4 +1,6 @@
 const config = require('./src/utils/siteConfig')
+require('dotenv').config();
+
 let contentfulConfig
 
 try {

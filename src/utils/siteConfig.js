@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'GCN',
+  siteTitle: 'Raccoon-Blog',
   siteTitleAlt: 'GCN Gatsby Starter', // This allows an alternative site title for SEO schema.
   publisher: 'Publisher named GCN', // Organization name used for SEO schema
   siteDescription:
